@@ -26,8 +26,10 @@ function Home1() {
                         <a href='https://www.naukri.com/mnjuser/profile?id=&altresid' target='_blank' className='bg-black py-3 px-4 rounded-xl text-white hover:bg-slate-900'>Hire Me</a>
                     </div>
                 </div>
-                <div className='absolute bottom-10 hidden lg:block' style={{ right: '8rem' }}>
-                    <Image src={'/lamp.svg'} alt='Lamp Image' width={100} height={100} />
+                <div className='relative hidden lg:block'>
+                    <div className='absolute -bottom-10 right-0 hidden lg:block'>
+                        <Image src={'/lamp.svg'} alt='Lamp Image' width={100} height={100} />
+                    </div>
                 </div>
             </div>
         </>
