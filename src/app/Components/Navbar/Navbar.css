@@ -54,7 +54,7 @@ nav ul li a:hover::after {
 }
 
 .navbar-dark {
-    background-color: #4b4b4b !important;
+    background-color: #545353 !important;
     color: white !important;
     border-color: rgb(255, 255, 255) !important;
 }
