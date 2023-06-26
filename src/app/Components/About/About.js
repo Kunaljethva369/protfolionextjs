@@ -101,13 +101,13 @@ function About() {
                 <div className='rightSide xl:ml-0 lg:ml-4 md:ml-4'>
                     <h1 className='text-2xl md:text-3xl lg:text-2xl lg:text-left text-center font-light tracking-wider leading-snug'>BIOGRAPHY</h1>
                     <p className='mt-6 lg:text-left text-center text-lg md:text-2xl lg:text-lg'>
-                        Hi, I'm <b>Kunal</b>, a Web developer and MERN Stack developer with a passion for creating beautiful, functional, and user-centered digital experiences. With 2 years of experience in the field. I am always looking for new and innovative ways to bring my clients' visions to life.
+                        Hi, I m <b>Kunal</b>, a Web developer and MERN Stack developer with a passion for creating beautiful, functional, and user-centered digital experiences. With 2 years of experience in the field. I am always looking for new and innovative ways to bring my clients visions to life.
                         <br />
                         <br />
-                        I believe that design is about more than just making things look pretty – it's about solving problems and creating intuitive, enjoyable experiences for users.
+                        I believe that design is about more than just making things look pretty – its about solving problems and creating intuitive, enjoyable experiences for users.
                         <br />
                         <br />
-                        Whether I'm working on a website, mobile app, or other digital product, I bring my commitment to design excellence and user-centered thinking to every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+                        Whether I m working on a website, mobile app, or other digital product, I bring my commitment to design excellence and user-centered thinking to every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
                     </p>
                 </div>
             </div>
