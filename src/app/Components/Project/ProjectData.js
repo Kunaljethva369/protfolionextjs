@@ -1,5 +1,11 @@
 const ProjectData = [
     {
+        title: "Recipe Saver",
+        description: "Bulid on MERN Stack, User can login, save recipes also delete if not required.",
+        image: "/curd.png",
+        url: "https://incomparable-nougat-89f78a.netlify.app/"
+    },
+    {
         title: "Selecao",
         description: "Bulid with HTML5 & CSS3, Bootstrap with Vanilla JS and owl carousel libary",
         image: "/selecao.png",
@@ -10,12 +16,6 @@ const ProjectData = [
         description: "Bulid With React JS, Styled Components, Reusable components",
         image: "/reactapp.png",
         url: "https://dreamy-darwin-c8bd49.netlify.app/"
-    },
-    {
-        title: "Recipe Saver",
-        description: "Bulid on MERN Stack, User can login, save recipes also delete if not required.",
-        image: "/curd.png",
-        url: "https://incomparable-nougat-89f78a.netlify.app/"
     },
     {
         title: "FreeLance Work",
