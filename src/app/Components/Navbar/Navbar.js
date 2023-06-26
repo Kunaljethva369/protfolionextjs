@@ -28,9 +28,9 @@ function Navbar() {
             <nav className='md:py-6 py-3'>
                 <ul className={menu ? 'active' : ''}>
                     <li className={router == "/" ? "activemenu px-5" : "px-5"}><Link href={'/'} onClick={() => { setMenu(false) }}>Home</Link></li>
-                    <li className={router == "/about" ? "activemenu px-5" : "px-5"}><Link href={'/about'} onClick={() => { setMenu(false) }}>About</Link></li>
-                    <li className={router == "/project" ? "activemenu px-5" : "px-5"}><Link href={'/project'} onClick={() => { setMenu(false) }}>Projects</Link></li>
-                    <li className={router == "/contact" ? "activemenu px-5" : "px-5"}><Link href={'/contact'} onClick={() => { setMenu(false) }}>Contact</Link></li>
+                    <li className={router == "/about" ? "activemenu px-5" : "px-5"}><Link href='/about' onClick={() => { setMenu(false) }}>About</Link></li>
+                    <li className={router == "/project" ? "activemenu px-5" : "px-5"}><Link href='/project' onClick={() => { setMenu(false) }}>Projects</Link></li>
+                    <li className={router == "/contact" ? "activemenu px-5" : "px-5"}><Link href='/contact' onClick={() => { setMenu(false) }}>Contact</Link></li>
                 </ul>
                 <div className='logo px-5'>
                     <div className='logoImg'>
