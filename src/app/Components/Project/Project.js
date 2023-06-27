@@ -7,13 +7,9 @@ function Project() {
             <h1 className='sm:text-5xl text-4xl font-semibold text-center'>Imagination Trumps Knowledge!</h1>
             <div className="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-10">
                 {
-                    ProjectData.map(function (el, id) {
-                        return (
-                            <>
-                                <Cards props={el} key={id} />
-                            </>
-                        )
-                    })
+                    ProjectData.map((el, id) => (
+                        <Cards props={el} key={id} />
+                    ))
                 }
             </div>
         </div>
